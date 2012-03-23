@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#ffffff</color>
+    <color name="actionbar_title_color">#224894</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="rouge_oiseau">#d61f48</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="focused">#ff4444</color>
+    <color name="pressed">#33b5e5</color>
+</resources>

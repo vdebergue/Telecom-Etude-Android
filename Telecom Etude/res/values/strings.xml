@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telecom Etude</string>
+    <string name="imgadmin">Image d\'un administrateur</string>
+    <string name="listeadminvide">Aucun Administrateur téléchargé, problème avec la connection</string>
+    <string name="mail_body">Bonjour, <br/>Contact via l\'application Android</string>
+    <string name="mail_subject"> [Telecom Etude] Contact</string>
+    <string name="menu_refresh">Rafraichir</string>
+    <string name="menu_search">Recherche</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_parameters">Paramètres</string>
+    <string name="home_liste">Liste des Administrateurs</string>
+    <string name="home_etudes">Etudes</string>
+    <string name="home_infos">Infos sur la JE</string>
+    <string name="home_connexion">Se Connecter</string>
+    <string name="erreur_connection">Erreur de connection au serveur</string>
+    <string name="parametres_rafraichir">Rafraichir les informations</string>
+    <string name="admin_sms">Cliquer pour envoyer un sms</string>
+    <string name="listeetudevide">Aucune Etude téléchargée, problème avec la connection</string>
+    <string name="notif_debut">Il y a </string>
+    <string name="notif_fin"> nouvelles études disponibles</string>
+    <string name="notif_text"> Nouvelles Etudes</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="6dip" 
+    android:layout_marginBottom="80dp"
+    android:baselineAligned="false">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_margin="1dp">
+
+        <Button
+            android:id="@+id/imageButtonListeAdmins"
+            style="@style/HomeButton"
+            android:drawableTop="@drawable/home_button"
+            android:onClick="onClickFeature"
+            android:text="@string/home_liste" />
+
+        <Button
+            android:id="@+id/home_etudes"
+            style="@style/HomeButton"
+            android:drawableTop="@drawable/home_button"
+            android:onClick="onClickFeature"
+            android:text="@string/home_etudes" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+         >
+
+        <Button
+            android:id="@+id/home_infos"
+            style="@style/HomeButton"
+            android:drawableTop="@drawable/home_button"
+            android:onClick="onClickFeature"
+            android:text="@string/home_infos" />
+
+        <Button
+            android:id="@+id/home_connexion"
+            style="@style/HomeButton"
+            android:drawableTop="@drawable/home_button"
+            android:onClick="onClickFeature"
+            android:text="@string/home_connexion" />
+        </LinearLayout>
+
+</LinearLayout>
